@@ -25,7 +25,7 @@
         "-XX:CompileThreshold=1500"
     ],
     "dependencyHashes": {
-        "Aldor.jar": "973424078db318bf7113934890049ac16db8a4c7b8ba50ad01d43638b9fe3767"
+        "Aldor.jar": "c6b9f3235597c46171a6ce4665b357c7fd6adcb03935a19205e3b0a08596b28e"
     },
     "launcherJvm17MacArguments": [
         "-XX:+DisableAttachMechanism",
@@ -97,9 +97,9 @@
     "artifacts": [
         {
             "path": "https://raw.githubusercontent.com/Whatis69n/aldor-hosting/main/stable/Aldor.jar",
-            "size": 3031168,
+            "size": 3030586,
             "name": "Aldor.jar",
-            "hash": "973424078db318bf7113934890049ac16db8a4c7b8ba50ad01d43638b9fe3767"
+            "hash": "c6b9f3235597c46171a6ce4665b357c7fd6adcb03935a19205e3b0a08596b28e"
         }
     ]
 }
