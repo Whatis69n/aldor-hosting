@@ -25,7 +25,7 @@
         "-XX:CompileThreshold=1500"
     ],
     "dependencyHashes": {
-        "Aldor-Shaded.jar": "4c2e72ecfb4fc91c4a02705844e6862a0d9f02c297e4f95933286919c212c95c"
+        "Aldor.jar": "8517b0eee044a5895d408b55d20cae11504f35322a77cce275bfe7120b6a2c85"
     },
     "launcherJvm17MacArguments": [
         "-XX:+DisableAttachMechanism",
@@ -96,10 +96,10 @@
     "projectVersion": "1.0.16-STABLE",
     "artifacts": [
         {
-            "path": "https://raw.githubusercontent.com/Whatis69n/aldor-hosting/main/stable/Aldor-Shaded.jar",
-            "size": 8840132,
-            "name": "Aldor-Shaded.jar",
-            "hash": "4c2e72ecfb4fc91c4a02705844e6862a0d9f02c297e4f95933286919c212c95c"
+            "path": "https://raw.githubusercontent.com/Whatis69n/aldor-hosting/main/stable/Aldor.jar",
+            "size": 3030541,
+            "name": "Aldor.jar",
+            "hash": "8517b0eee044a5895d408b55d20cae11504f35322a77cce275bfe7120b6a2c85"
         }
     ]
 }
